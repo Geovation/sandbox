@@ -23,11 +23,11 @@
  },
  {
    "County": "Bedfordshire",
-   "Members": 3
+   "Members": 4
  },
  {
    "County": "Berkshire",
-   "Members": 4
+   "Members": 5
  },
  {
    "County": "Berwickshire",
@@ -35,7 +35,7 @@
  },
  {
    "County": "Bristol",
-   "Members": 5
+   "Members": 8
  },
  {
    "County": "Buckinghamshire",
@@ -47,11 +47,11 @@
  },
  {
    "County": "Cambridgeshire",
-   "Members": 5
+   "Members": 6
  },
  {
    "County": "Cheshire",
-   "Members": 1
+   "Members": 2
  },
  {
    "County": "City of Aberdeen",
@@ -63,7 +63,7 @@
  },
  {
    "County": "City of Edinburgh",
-   "Members": 3
+   "Members": 5
  },
  {
    "County": "City of Glasgow",
@@ -95,7 +95,7 @@
  },
  {
    "County": "Dorset",
-   "Members": 2
+   "Members": 4
  },
  {
    "County": "Dumfries",
@@ -123,7 +123,7 @@
  },
  {
    "County": "East Sussex",
-   "Members": 6
+   "Members": 7
  },
  {
    "County": "Essex",
@@ -139,11 +139,11 @@
  },
  {
    "County": "Greater London",
-   "Members": 299
+   "Members": 338
  },
  {
    "County": "Greater Manchester",
-   "Members": 3
+   "Members": 5
  },
  {
    "County": "Gwent",
@@ -155,7 +155,7 @@
  },
  {
    "County": "Hampshire",
-   "Members": 12
+   "Members": 16
  },
  {
    "County": "Herefordshire",
@@ -163,7 +163,7 @@
  },
  {
    "County": "Hertfordshire",
-   "Members": 13
+   "Members": 14
  },
  {
    "County": "Inverness",
@@ -175,7 +175,7 @@
  },
  {
    "County": "Kent",
-   "Members": 6
+   "Members": 7
  },
  {
    "County": "Kincardineshire",
@@ -191,7 +191,7 @@
  },
  {
    "County": "Leicestershire",
-   "Members": 4
+   "Members": 5
  },
  {
    "County": "Lincolnshire",
@@ -199,7 +199,7 @@
  },
  {
    "County": "Merseyside",
-   "Members": 0
+   "Members": 1
  },
  {
    "County": "Mid Glamorgan",
@@ -211,7 +211,7 @@
  },
  {
    "County": "Moray",
-   "Members": 0
+   "Members": 1
  },
  {
    "County": "Nairn",
@@ -235,7 +235,7 @@
  },
  {
    "County": "Nottinghamshire",
-   "Members": 2
+   "Members": 3
  },
  {
    "County": "Orkney",
@@ -279,11 +279,11 @@
  },
  {
    "County": "Somerset",
-   "Members": 1
+   "Members": 3
  },
  {
    "County": "South Glamorgan",
-   "Members": 0
+   "Members": 1
  },
  {
    "County": "South Yorkshire",
@@ -291,7 +291,7 @@
  },
  {
    "County": "Staffordshire",
-   "Members": 2
+   "Members": 3
  },
  {
    "County": "Stirling and Falkirk",
@@ -303,7 +303,7 @@
  },
  {
    "County": "Surrey",
-   "Members": 14
+   "Members": 16
  },
  {
    "County": "Sutherland",
@@ -323,7 +323,7 @@
  },
  {
    "County": "Warwickshire",
-   "Members": 0
+   "Members": 2
  },
  {
    "County": "West Glamorgan",
@@ -331,11 +331,11 @@
  },
  {
    "County": "West Lothian",
-   "Members": 0
+   "Members": 1
  },
  {
    "County": "West Midlands",
-   "Members": 2
+   "Members": 3
  },
  {
    "County": "West Sussex",
@@ -359,7 +359,7 @@
  },
  {
    "County": "Worcestershire",
-   "Members": 1
+   "Members": 2
  }
 ]
 }

@@ -7,11 +7,11 @@
       },
       {
          "County": "Berkshire",
-         "Startups": 0
+         "Startups": 1
       },
       {
          "County": "Bristol",
-         "Startups": 2
+         "Startups": 3
       },
       {
          "County": "Cheshire",
@@ -47,11 +47,11 @@
       },
       {
          "County": "Greater London",
-         "Startups": 35
+         "Startups": 36
       },
       {
          "County": "Greater Manchester",
-         "Startups": 1
+         "Startups": 2
       },
       {
          "County": "Herefordshire",
@@ -63,7 +63,7 @@
       },
       {
          "County": "Kent",
-         "Startups": 1
+         "Startups": 2
       },
       {
          "County": "Lancashire",
@@ -99,7 +99,7 @@
       },
       {
          "County": "Nottinghamshire",
-         "Startups": 1
+         "Startups": 2
       },
       {
          "County": "Oxfordshire",

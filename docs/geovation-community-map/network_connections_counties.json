@@ -7,11 +7,11 @@
       },
       {
          "County": "Berkshire",
-         "Connections": 10
+         "Connections": 12
       },
       {
          "County": "Bristol",
-         "Connections": 11
+         "Connections": 13
       },
       {
          "County": "Cheshire",
@@ -19,7 +19,7 @@
       },
       {
          "County": "Cumbria",
-         "Connections": 0
+         "Connections": 1
       },
       {
          "County": "Derbyshire",
@@ -47,11 +47,11 @@
       },
       {
          "County": "Greater London",
-         "Connections": 176
+         "Connections": 182
       },
       {
          "County": "Greater Manchester",
-         "Connections": 22
+         "Connections": 26
       },
       {
          "County": "Herefordshire",
@@ -59,11 +59,11 @@
       },
       {
          "County": "Hertfordshire",
-         "Connections": 8
+         "Connections": 9
       },
       {
          "County": "Kent",
-         "Connections": 6
+         "Connections": 7
       },
       {
          "County": "Lancashire",
@@ -91,7 +91,7 @@
       },
       {
          "County": "Northamptonshire",
-         "Connections": 1
+         "Connections": 2
       },
       {
          "County": "Northumberland",
@@ -119,7 +119,7 @@
       },
       {
          "County": "Staffordshire",
-         "Connections": 2
+         "Connections": 3
       },
       {
          "County": "Suffolk",
@@ -127,11 +127,11 @@
       },
       {
          "County": "Surrey",
-         "Connections": 16
+         "Connections": 17
       },
       {
          "County": "Tyne & Wear",
-         "Connections": 0
+         "Connections": 1
       },
       {
          "County": "Warwickshire",
@@ -151,7 +151,7 @@
       },
       {
          "County": "Wiltshire",
-         "Connections": 10
+         "Connections": 11
       },
       {
          "County": "Worcestershire",
@@ -163,7 +163,7 @@
       },
       {
          "County": "Cambridgeshire",
-         "Connections": 8
+         "Connections": 9
       },
       {
          "County": "Cornwall",
@@ -171,7 +171,7 @@
       },
       {
          "County": "Devon",
-         "Connections": 11
+         "Connections": 12
       },
       {
          "County": "Dorset",
@@ -179,7 +179,7 @@
       },
       {
          "County": "Hampshire",
-         "Connections": 14
+         "Connections": 20
       },
       {
          "County": "Isle of Wight",
@@ -187,7 +187,7 @@
       },
       {
          "County": "Somerset",
-         "Connections": 5
+         "Connections": 6
       },
       {
          "County": "Aberdeenshire",
@@ -339,7 +339,7 @@
       },
       {
          "County": "Gwent",
-         "Connections": 0
+         "Connections": 1
       },
       {
          "County": "Gwynedd",

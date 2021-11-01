@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.0998887, 51.5243897]
+      },
+      "properties": {
+        "Company Name": "Geovation Hub",
+        "Address 1: Street 1": "Goswell Road",
+        "Address 1: Street 2": "London",
+        "Address 1: Street 3": "",
+        "Address 1: ZIP/Postal Code": "EC1V 7EN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.5384064, 50.9226157]
+      },
+      "properties": {
+        "Company Name": "Ordnance Survey",
+        "Address 1: Street 1": "Adanac Drive",
+        "Address 1: Street 2": "Southampton",
+        "Address 1: Street 3": "",
+        "Address 1: ZIP/Postal Code": "SO16 0AS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.0988878, 51.3788606]
+      },
+      "properties": {
+        "Company Name": "HM Land Registry",
+        "Address 1: Street 1": "Bedford Park",
+        "Address 1: Street 2": "Croydon",
+        "Address 1: Street 3": "",
+        "Address 1: ZIP/Postal Code": "CR0 2AQ"
+      }
+    }
+  ]
+}

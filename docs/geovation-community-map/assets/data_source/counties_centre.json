@@ -1,0 +1,1422 @@
+{
+  "type": "FeatureCollection",
+  "name": "counties",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "City of Edinburgh",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.2733635982991336, 56.01039991940938]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East Lothian",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.7839631327489816, 56.07181492271302]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Isle of Wight",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.0948922933476979, 50.74007764711516]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Hampshire", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.0721713844351115, 50.750377509163634]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Devon", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.148015503479227, 50.33378483575038]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Cornwall", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.313024193546626, 49.96837075011737]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Dyfed", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.690876945419418, 52.13195859523479]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Gwynedd", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.026536955922186, 53.317061846845874]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Stewartry of Kirkcudbright",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.085572847417518, 54.7661520708002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Fife", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.1348044937142303, 56.03022985043371]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ayrshire and Arran",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.842923917619857, 55.64527726319335]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kincardineshire",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.104457939148046, 57.0609332838589]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "City of Aberdeen",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.07956411345324, 57.0928243572229]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aberdeenshire",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.818567780394969, 57.42489377628194]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ross and Cromarty",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.446386642853584, 58.00995274817467]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Inverness", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.1252641606845675, 56.87273013634976]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Banffshire",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.492394025209085, 57.673646471087885]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Moray", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.3499169663186112, 57.72991937570894]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sutherland",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.128961435762999, 58.475719083723384]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Caithness", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.1973012920204704, 58.318774423549186]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Shetland", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.1347074934996986, 60.448894794805796]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Argyll and Bute",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.392254702205472, 56.58652287864177]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Orkney", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.119008919603096, 59.14297781901543]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Western Isles",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.094830013203853, 57.663156923657645]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Dyfed", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.387077259321771, 51.90209657558237]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ayrshire and Arran",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.11554626578296, 55.252432352310606]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ross and Cromarty",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.223809098364544, 57.94285112185811]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Inverness", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.677556730069002, 56.97039260188349]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sutherland",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.319751170547978, 58.1438170230868]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Shetland", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.360263185792007, 60.357087641764906]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Argyll and Bute",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.258555896062926, 56.45128457487424]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Orkney", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.1678424291022695, 58.879648082250625]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Western Isles",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.439628650076331, 58.104607207542045]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clackmannan",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.723428646272806, 56.13449045508387]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Cornwall", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.9413071081229125, 50.44276319960463]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Somerset", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.107353208649392, 51.33995940114579]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Bristol", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.6196325830125993, 51.47327301263089]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Gwynedd", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.1033410249380164, 52.90520794614061]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Renfrewshire",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.568738813995893, 55.825603951091416]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dunbartonshire",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.671343185607142, 55.937983073615044]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Renfrewshire",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.671343185607142, 55.937983073615044]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Caithness", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.4416566496067764, 58.404304299931]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Shetland", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.082743298503618, 60.132832223325565]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dunbartonshire",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.475495224790574, 56.06122426104567]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Northamptonshire",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.8367594477083166, 52.309877707259346]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lincolnshire",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.29200620860144355, 53.18207177356213]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Gwent", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.992429223074993, 51.73903044799896]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bedfordshire",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.42631166445338703, 52.0640128405489]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hertfordshire",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.2750989761885765, 51.840203755582095]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stirling and Falkirk",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.178689006508833, 56.22124978194669]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Devon", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.7177050721869183, 50.71763718262743]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Cornwall", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.332370992418925, 49.95345726608967]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Somerset", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.0417796825323213, 51.161934919644864]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Dyfed", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.483705557763642, 52.07833998235936]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Gwynedd", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.790860447231903, 52.75679355625671]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Fife", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.1614621619169396, 56.22967936489831]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ayrshire and Arran",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.508836142448672, 55.44513030074827]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ross and Cromarty",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.8227161650375905, 57.611321997534795]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Inverness", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.815567020017782, 57.05058506314225]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sutherland",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.499917199810273, 58.208564962596036]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Caithness", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.1211083960700403, 58.680625529460286]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Shetland", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.3424875174233055, 60.29341225320268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Argyll and Bute",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.182819209139721, 55.952155894404825]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Orkney", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.035660292968471, 58.941866883635186]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Western Isles",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.636151770651635, 58.122195983094684]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buckinghamshire",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.8153703148340266, 51.841782321867626]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Berkshire", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.037383084095384, 51.45353359073647]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Surrey", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.3994697146084715, 51.276794396743306]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East Lothian",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.725926836459771, 55.943437145615]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Midlothian",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.1076387230539404, 55.82584756903236]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lanarkshire",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.8235806986715404, 55.61425887811884]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Lothian",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.6130121810836786, 55.88842113162707]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "City of Glasgow",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.232458642171535, 55.85522620895815]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Dorset", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.326717647201499, 50.796271536738715]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Shetland", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.5843052209096975, 60.199463824865674]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Gwent", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.7813161417163963, 51.526092465281856]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Glamorgan",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.1218746733550233, 51.3774576844762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Western Isles",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.843590367523825, 59.11787835370255]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Tweeddale", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.2250228651403363, 55.61818713888232]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "City of Edinburgh",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.2501729486743054, 55.907734670988106]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Shetland", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.087435617804269, 60.145942820571015]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Western Isles",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.860047791888439, 58.222669071426935]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cambridgeshire",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.008395717741754516, 52.37189564793575]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Nairn", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.880411686503496, 57.48633871022629]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perth and Kinross",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.8757690377460126, 56.53995254805771]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "City of Dundee",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.9608038889792625, 56.47381501906503]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berwickshire",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.3656354317146655, 55.79055775164295]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Isle of Wight",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.324778713235373, 50.67084344381351]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Hampshire", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.346316253449268, 51.04500048694153]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Sussex",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.456531632277034, 50.94455484261046]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East Sussex",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.3046998001097745, 50.93816291480039]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Cornwall", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.306032591205217, 49.92513421072953]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gloucestershire",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.1629486654062493, 51.77068197967475]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Gwynedd", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.368006199552079, 53.275421264080016]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Clwyd", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.3790865266143353, 53.11299995733771]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Merseyside",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.9202501204799542, 53.49534718831262]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lancashire",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.5574118305368136, 53.85474737106557]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Cumbria", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.9050510889876042, 54.61557769608396]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Dumfries", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.4855035158514687, 55.154284557549445]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Stewartry of Kirkcudbright",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.026806446367377, 55.04170662544331]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Wigtown", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.718750326932099, 54.89707233218799]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Angus", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.897051451450081, 56.71721707374925]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ayrshire and Arran",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.244555820942521, 55.57616497829608]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kincardineshire",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.4232322123955026, 56.942949417156264]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "City of Aberdeen",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.1895221366258006, 57.155240001086]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aberdeenshire",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.7836623237818006, 57.28002298134625]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ross and Cromarty",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.036356025657217, 57.42184730887196]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Inverness", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.357314977600962, 56.99857202496348]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Banffshire",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.954483490088558, 57.37783113937256]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Moray", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.3855342658718364, 57.57053155268018]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Shetland", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.4279384620975466, 60.36874362376616]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tyne & Wear",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.5899504470459171, 54.93693520984458]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East Riding of Yorkshire",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.47826440784040497, 53.87220767853891]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Yorkshire",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.3878130861388156, 54.134535023629155]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Glamorgan",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.949689875027698, 51.673038545653114]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Durham", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.7496444302265006, 54.680366171672794]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Kent", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.7469104557899294, 51.20774939910382]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Essex", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.6417293608527186, 51.77062119046023]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Suffolk", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.055534609240399, 52.234587466949876]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Northumberland",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.0753716974373466, 55.297015100535134]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Argyll and Bute",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.123042259992407, 55.82410302544476]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mid Glamorgan",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.503805585068258, 51.64939853205766]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Orkney", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.2831637064925756, 58.854381808716155]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Glamorgan",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.362737876022559, 51.46645763416093]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Norfolk", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.955979075057509, 52.6727048204865]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Western Isles",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.584369117406158, 57.81065432809547]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Wiltshire", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.9314214315666325, 51.32364898778988]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Cheshire", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.5578446487115514, 53.213656717162564]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Greater Manchester",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.320071478331851, 53.505728220538025]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Rutland", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.626026912542899, 52.64081883361972]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oxfordshire",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.2948862253682671, 51.813943140856324]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shropshire",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.73788431573455, 52.652669087303266]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nottinghamshire",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.005503986168411, 53.147056938758794]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Yorkshire",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.3437813468413025, 53.48372834799649]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Yorkshire",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.672571210547757, 53.73890184155222]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Worcestershire",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.2154347444842157, 52.21092965590516]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Midlands",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.8189408377313678, 52.5062958961593]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Herefordshire",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.746648373178447, 52.10866766663776]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Greater London",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.08786246179764601, 51.48743581936951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roxburgh, Ettrick and Lauderdale",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.761194694213068, 55.472335142004965]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Powys", "description": "Ceremonial County" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.4381174555871934, 52.322335096003066]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Derbyshire",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.6131831906467418, 53.11938970555087]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Staffordshire",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.028099080648962, 52.82187865426752]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Warwickshire",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.5684800632901421, 52.32131879021273]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leicestershire",
+        "description": "Ceremonial County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.1308291488170015, 52.68680824777492]
+      }
+    }
+  ]
+}
